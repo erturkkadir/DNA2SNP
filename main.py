@@ -32,7 +32,7 @@ rsid_per_chromosome_series.columns = ['chromosome', 'count']
 rsid_per_chromosome_series.plot.barh(figsize=(16,9), fontsize=15)
 # plt.show()
 
-snp_df = pd.read_csv('data/snip101.csv')
+snp_df = pd.read_csv('data/uniq_snips.csv')
 
 snp_df['genotype'] = snp_df['rsid'].apply(lambda x: re.sub(r'.*([AGCT]);([AGCT])\)', r'\1\2', x))
 new_cols = ['rsid', 'magnitude', 'repute', 'summary', 'genotype']
