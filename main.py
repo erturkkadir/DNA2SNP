@@ -60,4 +60,4 @@ gene_urls = [base_url + rsid for rsid in bad_genes['rsid']]
 for url in gene_urls:
     print(url, '\n')
 
-print(tabulate(new_df))
+print(tabulate(bad_genes))
