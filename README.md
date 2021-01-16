@@ -10,7 +10,6 @@ LUTFEN SORUMLU BIR SEKILDE KULLANINIZ!!!
 
 
 DNA analizinden genetik hastaliklari bulabilmek
-
 Genetik kokenlerinizi bulmak icin DNA testi yaptirdiysaniz ayni sonuclari kullanarak genetik hastaliklarinizi da bulabilirsiniz.
 
 Eger FamilyTreeDNA den yaptirdinizsa
@@ -27,10 +26,7 @@ kod icerisinde
 
 fname = "data/result.txt" 
 
-satirini indirdiginiz indirdiginiz dosyaya gore degistirin
-
-Programi calistirin.
-
+satirini indirdiginiz dosyaya gore degistirin. Programi calistirin.
 Sadece kotu genler ekraninizda listelenecektir. Iyi genleri isterseniz en sondaki
 
 print(tabulate(bad_genes))
@@ -40,3 +36,6 @@ satirini
 print(tabulate(good_genes)) ile degistirip programi yeniden calistirin.
 
 
+Kodlar cogunlukla https://github.com/lorarjohns/DNA_pandas_selenium adresinden alinmistir.
+
+The origin of the codes at https://github.com/lorarjohns/DNA_pandas_selenium. Please refer this repo for more details
