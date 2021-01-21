@@ -9,8 +9,11 @@ SONUCLARI TIBBI ANLAMDA HICBIRSEY IFADE ETMEZ.
 LUTFEN SORUMLU BIR SEKILDE KULLANINIZ!!!
 
 
-DNA analizinden genetik hastaliklari bulabilmek
+DNA analizinden genetik hastaliklari bulabilmek.
+
+
 Genetik kokenlerinizi bulmak icin DNA testi yaptirdiysaniz ayni sonuclari kullanarak genetik hastaliklarinizi da bulabilirsiniz.
+
 
 Eger FamilyTreeDNA den yaptirdinizsa
   https://www.familytreedna.com/ hesapiniza giris yapin
@@ -27,6 +30,7 @@ kod icerisinde
 fname = "data/result.txt" 
 
 satirini indirdiginiz dosyaya gore degistirin. Programi calistirin.
+
 Sadece kotu genler ekraninizda listelenecektir. Iyi genleri isterseniz en sondaki
 
 print(tabulate(bad_genes))
