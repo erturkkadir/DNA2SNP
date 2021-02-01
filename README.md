@@ -42,4 +42,4 @@ print(tabulate(good_genes)) ile degistirip programi yeniden calistirin.
 
 Kodlar cogunlukla https://github.com/lorarjohns/DNA_pandas_selenium adresinden alinmistir.
 
-The origin of the codes at https://github.com/lorarjohns/DNA_pandas_selenium. Please refer this repo for more details
+The origin of the codes are at https://github.com/lorarjohns/DNA_pandas_selenium. Please refer this repo for more details
